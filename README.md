@@ -2,22 +2,34 @@
 
 Full-stack developer building clean, functional web apps.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [route53-clone](https://github.com/AaravKataria4542/route53-clone)
-A fully functional clone of the **AWS Route 53** web console — built with React 19 + Vite + TanStack Start.
+### [github-bot-automation](https://github.com/AaravKataria4542/github-bot-automation)
+An **event-driven GitHub automation bot** — reacts to repo activity with configurable rules, AI triage, and Slack alerts.
 
 **Features:**
-- 🔐 Mock AWS-style authentication (sign-in, sign-up, demo login)
-- 🌐 Hosted zones — create, list, search, bulk delete (Public & Private)
-- 📋 Full DNS record CRUD — A, AAAA, CNAME, TXT, MX, NS, PTR, SRV, CAA
-- ❤️ Health checks & traffic policy UI
+- 🔐 GitHub OAuth sign-in & repo connection
+- ⚡ Configurable rules engine (match keywords, author, event type)
+- 🤖 AI triage via Gemini 2.0 Flash — priority, labels, summaries
+- 📣 Slack notifications with rich Block Kit messages
+- 🛡️ HMAC-SHA256 webhook verification, encrypted token storage, idempotent processing
+- 📊 Live dashboard with event log and bot action history
+
+---
+
+### [route53-clone](https://github.com/AaravKataria4542/route53-clone) · [Live Demo ↗](https://route53-clone-lilac.vercel.app)
+A fully functional clone of the **AWS Route 53** web console.
+
+**Features:**
+- 🔐 Mock AWS-style authentication
+- 🌐 Hosted zones CRUD (Public & Private)
+- 📋 Full DNS record management — A, AAAA, CNAME, TXT, MX, NS, PTR, SRV, CAA
 - 📤 BIND zone-file export
-- 🎨 AWS Cloudscape-inspired UI (Squid Ink nav, orange CTAs)
+- 🎨 AWS Cloudscape-inspired UI
 
 ## 🛠️ Tech Stack
 
-`React` · `TypeScript` · `Vite` · `TanStack Router` · `Tailwind CSS` · `Supabase`
+`React` · `Next.js` · `TypeScript` · `Vite` · `TanStack Router` · `Tailwind CSS` · `Supabase` · `Gemini AI`
 
 ## 📫 Connect
 
