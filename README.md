@@ -4,7 +4,7 @@ Full-stack developer building clean, functional web apps.
 
 ## 🚀 Featured Projects
 
-### [github-bot-automation](https://github.com/AaravKataria4542/github-bot-automation)
+### [github-bot-automation](https://github.com/AaravKataria4542/github-bot-automation) · [Live Demo ↗](https://github-bot-automation-np17.vercel.app)
 An **event-driven GitHub automation bot** — reacts to repo activity with configurable rules, AI triage, and Slack alerts.
 
 **Features:**
@@ -13,7 +13,7 @@ An **event-driven GitHub automation bot** — reacts to repo activity with confi
 - 🤖 AI triage via Gemini 2.0 Flash — priority, labels, summaries
 - 📣 Slack notifications with rich Block Kit messages
 - 🛡️ HMAC-SHA256 webhook verification, encrypted token storage, idempotent processing
-- 📊 Live dashboard with event log and bot action history
+- 📊 Live dashboard with real-time event log and bot action history
 
 ---
 
